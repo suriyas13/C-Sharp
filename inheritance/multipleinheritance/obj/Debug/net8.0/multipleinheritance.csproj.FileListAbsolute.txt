@@ -1,0 +1,14 @@
+D:\c# programs\inheritance\multipleinheritance\obj\Debug\net8.0\multipleinheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\c# programs\inheritance\multipleinheritance\obj\Debug\net8.0\multipleinheritance.AssemblyInfoInputs.cache
+D:\c# programs\inheritance\multipleinheritance\obj\Debug\net8.0\multipleinheritance.AssemblyInfo.cs
+D:\c# programs\inheritance\multipleinheritance\obj\Debug\net8.0\multipleinheritance.csproj.CoreCompileInputs.cache
+D:\c# programs\inheritance\multipleinheritance\bin\Debug\net8.0\multipleinheritance.exe
+D:\c# programs\inheritance\multipleinheritance\bin\Debug\net8.0\multipleinheritance.deps.json
+D:\c# programs\inheritance\multipleinheritance\bin\Debug\net8.0\multipleinheritance.runtimeconfig.json
+D:\c# programs\inheritance\multipleinheritance\bin\Debug\net8.0\multipleinheritance.dll
+D:\c# programs\inheritance\multipleinheritance\bin\Debug\net8.0\multipleinheritance.pdb
+D:\c# programs\inheritance\multipleinheritance\obj\Debug\net8.0\multipleinheritance.dll
+D:\c# programs\inheritance\multipleinheritance\obj\Debug\net8.0\refint\multipleinheritance.dll
+D:\c# programs\inheritance\multipleinheritance\obj\Debug\net8.0\multipleinheritance.pdb
+D:\c# programs\inheritance\multipleinheritance\obj\Debug\net8.0\multipleinheritance.genruntimeconfig.cache
+D:\c# programs\inheritance\multipleinheritance\obj\Debug\net8.0\ref\multipleinheritance.dll

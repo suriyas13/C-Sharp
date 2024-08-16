@@ -1,0 +1,14 @@
+d:\program\c#programs\linkedlist\bin\Debug\net8.0\linkedlist.exe
+d:\program\c#programs\linkedlist\bin\Debug\net8.0\linkedlist.deps.json
+d:\program\c#programs\linkedlist\bin\Debug\net8.0\linkedlist.runtimeconfig.json
+d:\program\c#programs\linkedlist\bin\Debug\net8.0\linkedlist.dll
+d:\program\c#programs\linkedlist\bin\Debug\net8.0\linkedlist.pdb
+d:\program\c#programs\linkedlist\obj\Debug\net8.0\linkedlist.GeneratedMSBuildEditorConfig.editorconfig
+d:\program\c#programs\linkedlist\obj\Debug\net8.0\linkedlist.AssemblyInfoInputs.cache
+d:\program\c#programs\linkedlist\obj\Debug\net8.0\linkedlist.AssemblyInfo.cs
+d:\program\c#programs\linkedlist\obj\Debug\net8.0\linkedlist.csproj.CoreCompileInputs.cache
+d:\program\c#programs\linkedlist\obj\Debug\net8.0\linkedlist.dll
+d:\program\c#programs\linkedlist\obj\Debug\net8.0\refint\linkedlist.dll
+d:\program\c#programs\linkedlist\obj\Debug\net8.0\linkedlist.pdb
+d:\program\c#programs\linkedlist\obj\Debug\net8.0\linkedlist.genruntimeconfig.cache
+d:\program\c#programs\linkedlist\obj\Debug\net8.0\ref\linkedlist.dll

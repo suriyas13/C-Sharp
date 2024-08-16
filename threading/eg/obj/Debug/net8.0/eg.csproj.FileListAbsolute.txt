@@ -1,0 +1,14 @@
+D:\c# programs\threading\eg\obj\Debug\net8.0\eg.GeneratedMSBuildEditorConfig.editorconfig
+D:\c# programs\threading\eg\obj\Debug\net8.0\eg.AssemblyInfoInputs.cache
+D:\c# programs\threading\eg\obj\Debug\net8.0\eg.AssemblyInfo.cs
+D:\c# programs\threading\eg\obj\Debug\net8.0\eg.csproj.CoreCompileInputs.cache
+D:\c# programs\threading\eg\bin\Debug\net8.0\eg.exe
+D:\c# programs\threading\eg\bin\Debug\net8.0\eg.deps.json
+D:\c# programs\threading\eg\bin\Debug\net8.0\eg.runtimeconfig.json
+D:\c# programs\threading\eg\bin\Debug\net8.0\eg.dll
+D:\c# programs\threading\eg\bin\Debug\net8.0\eg.pdb
+D:\c# programs\threading\eg\obj\Debug\net8.0\eg.dll
+D:\c# programs\threading\eg\obj\Debug\net8.0\refint\eg.dll
+D:\c# programs\threading\eg\obj\Debug\net8.0\eg.pdb
+D:\c# programs\threading\eg\obj\Debug\net8.0\eg.genruntimeconfig.cache
+D:\c# programs\threading\eg\obj\Debug\net8.0\ref\eg.dll

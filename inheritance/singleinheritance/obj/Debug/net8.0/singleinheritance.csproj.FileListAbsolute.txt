@@ -1,0 +1,14 @@
+D:\c# programs\inheritance\singleinheritance\obj\Debug\net8.0\singleinheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\c# programs\inheritance\singleinheritance\obj\Debug\net8.0\singleinheritance.AssemblyInfoInputs.cache
+D:\c# programs\inheritance\singleinheritance\obj\Debug\net8.0\singleinheritance.AssemblyInfo.cs
+D:\c# programs\inheritance\singleinheritance\obj\Debug\net8.0\singleinheritance.csproj.CoreCompileInputs.cache
+D:\c# programs\inheritance\singleinheritance\bin\Debug\net8.0\singleinheritance.exe
+D:\c# programs\inheritance\singleinheritance\bin\Debug\net8.0\singleinheritance.deps.json
+D:\c# programs\inheritance\singleinheritance\bin\Debug\net8.0\singleinheritance.runtimeconfig.json
+D:\c# programs\inheritance\singleinheritance\bin\Debug\net8.0\singleinheritance.dll
+D:\c# programs\inheritance\singleinheritance\bin\Debug\net8.0\singleinheritance.pdb
+D:\c# programs\inheritance\singleinheritance\obj\Debug\net8.0\singleinheritance.dll
+D:\c# programs\inheritance\singleinheritance\obj\Debug\net8.0\refint\singleinheritance.dll
+D:\c# programs\inheritance\singleinheritance\obj\Debug\net8.0\singleinheritance.pdb
+D:\c# programs\inheritance\singleinheritance\obj\Debug\net8.0\singleinheritance.genruntimeconfig.cache
+D:\c# programs\inheritance\singleinheritance\obj\Debug\net8.0\ref\singleinheritance.dll

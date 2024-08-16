@@ -1,0 +1,14 @@
+D:\c# programs\delegatefunction\obj\Debug\net8.0\addtionclass.GeneratedMSBuildEditorConfig.editorconfig
+D:\c# programs\delegatefunction\obj\Debug\net8.0\addtionclass.AssemblyInfoInputs.cache
+D:\c# programs\delegatefunction\obj\Debug\net8.0\addtionclass.AssemblyInfo.cs
+D:\c# programs\delegatefunction\obj\Debug\net8.0\addtionclass.csproj.CoreCompileInputs.cache
+D:\c# programs\delegatefunction\bin\Debug\net8.0\addtionclass.exe
+D:\c# programs\delegatefunction\bin\Debug\net8.0\addtionclass.deps.json
+D:\c# programs\delegatefunction\bin\Debug\net8.0\addtionclass.runtimeconfig.json
+D:\c# programs\delegatefunction\bin\Debug\net8.0\addtionclass.dll
+D:\c# programs\delegatefunction\bin\Debug\net8.0\addtionclass.pdb
+D:\c# programs\delegatefunction\obj\Debug\net8.0\addtionclass.dll
+D:\c# programs\delegatefunction\obj\Debug\net8.0\refint\addtionclass.dll
+D:\c# programs\delegatefunction\obj\Debug\net8.0\addtionclass.pdb
+D:\c# programs\delegatefunction\obj\Debug\net8.0\addtionclass.genruntimeconfig.cache
+D:\c# programs\delegatefunction\obj\Debug\net8.0\ref\addtionclass.dll

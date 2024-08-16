@@ -1,0 +1,14 @@
+D:\c# programs\builtinexception\bin\Debug\net8.0\builtinexception.exe
+D:\c# programs\builtinexception\bin\Debug\net8.0\builtinexception.deps.json
+D:\c# programs\builtinexception\bin\Debug\net8.0\builtinexception.runtimeconfig.json
+D:\c# programs\builtinexception\bin\Debug\net8.0\builtinexception.dll
+D:\c# programs\builtinexception\bin\Debug\net8.0\builtinexception.pdb
+D:\c# programs\builtinexception\obj\Debug\net8.0\builtinexception.GeneratedMSBuildEditorConfig.editorconfig
+D:\c# programs\builtinexception\obj\Debug\net8.0\builtinexception.AssemblyInfoInputs.cache
+D:\c# programs\builtinexception\obj\Debug\net8.0\builtinexception.AssemblyInfo.cs
+D:\c# programs\builtinexception\obj\Debug\net8.0\builtinexception.csproj.CoreCompileInputs.cache
+D:\c# programs\builtinexception\obj\Debug\net8.0\builtinexception.dll
+D:\c# programs\builtinexception\obj\Debug\net8.0\refint\builtinexception.dll
+D:\c# programs\builtinexception\obj\Debug\net8.0\builtinexception.pdb
+D:\c# programs\builtinexception\obj\Debug\net8.0\builtinexception.genruntimeconfig.cache
+D:\c# programs\builtinexception\obj\Debug\net8.0\ref\builtinexception.dll

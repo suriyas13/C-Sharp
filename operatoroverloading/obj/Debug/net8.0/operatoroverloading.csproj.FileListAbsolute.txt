@@ -1,0 +1,14 @@
+D:\c# programs\labexercise\operatoroverloading\obj\Debug\net8.0\operatoroverloading.GeneratedMSBuildEditorConfig.editorconfig
+D:\c# programs\labexercise\operatoroverloading\obj\Debug\net8.0\operatoroverloading.AssemblyInfoInputs.cache
+D:\c# programs\labexercise\operatoroverloading\obj\Debug\net8.0\operatoroverloading.AssemblyInfo.cs
+D:\c# programs\labexercise\operatoroverloading\obj\Debug\net8.0\operatoroverloading.csproj.CoreCompileInputs.cache
+D:\c# programs\labexercise\operatoroverloading\bin\Debug\net8.0\operatoroverloading.exe
+D:\c# programs\labexercise\operatoroverloading\bin\Debug\net8.0\operatoroverloading.deps.json
+D:\c# programs\labexercise\operatoroverloading\bin\Debug\net8.0\operatoroverloading.runtimeconfig.json
+D:\c# programs\labexercise\operatoroverloading\bin\Debug\net8.0\operatoroverloading.dll
+D:\c# programs\labexercise\operatoroverloading\bin\Debug\net8.0\operatoroverloading.pdb
+D:\c# programs\labexercise\operatoroverloading\obj\Debug\net8.0\operatoroverloading.dll
+D:\c# programs\labexercise\operatoroverloading\obj\Debug\net8.0\refint\operatoroverloading.dll
+D:\c# programs\labexercise\operatoroverloading\obj\Debug\net8.0\operatoroverloading.pdb
+D:\c# programs\labexercise\operatoroverloading\obj\Debug\net8.0\operatoroverloading.genruntimeconfig.cache
+D:\c# programs\labexercise\operatoroverloading\obj\Debug\net8.0\ref\operatoroverloading.dll

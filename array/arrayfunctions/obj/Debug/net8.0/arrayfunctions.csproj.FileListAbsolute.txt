@@ -1,0 +1,42 @@
+D:\c# programs\arrayfunctions\bin\Debug\net8.0\arrayfunctions.exe
+D:\c# programs\arrayfunctions\bin\Debug\net8.0\arrayfunctions.deps.json
+D:\c# programs\arrayfunctions\bin\Debug\net8.0\arrayfunctions.runtimeconfig.json
+D:\c# programs\arrayfunctions\bin\Debug\net8.0\arrayfunctions.dll
+D:\c# programs\arrayfunctions\bin\Debug\net8.0\arrayfunctions.pdb
+D:\c# programs\arrayfunctions\obj\Debug\net8.0\arrayfunctions.GeneratedMSBuildEditorConfig.editorconfig
+D:\c# programs\arrayfunctions\obj\Debug\net8.0\arrayfunctions.AssemblyInfoInputs.cache
+D:\c# programs\arrayfunctions\obj\Debug\net8.0\arrayfunctions.AssemblyInfo.cs
+D:\c# programs\arrayfunctions\obj\Debug\net8.0\arrayfunctions.csproj.CoreCompileInputs.cache
+D:\c# programs\arrayfunctions\obj\Debug\net8.0\arrayfunctions.dll
+D:\c# programs\arrayfunctions\obj\Debug\net8.0\refint\arrayfunctions.dll
+D:\c# programs\arrayfunctions\obj\Debug\net8.0\arrayfunctions.pdb
+D:\c# programs\arrayfunctions\obj\Debug\net8.0\arrayfunctions.genruntimeconfig.cache
+D:\c# programs\arrayfunctions\obj\Debug\net8.0\ref\arrayfunctions.dll
+D:\program\c# programs\array\arrayfunctions\bin\Debug\net8.0\arrayfunctions.exe
+D:\program\c# programs\array\arrayfunctions\bin\Debug\net8.0\arrayfunctions.deps.json
+D:\program\c# programs\array\arrayfunctions\bin\Debug\net8.0\arrayfunctions.runtimeconfig.json
+D:\program\c# programs\array\arrayfunctions\bin\Debug\net8.0\arrayfunctions.dll
+D:\program\c# programs\array\arrayfunctions\bin\Debug\net8.0\arrayfunctions.pdb
+D:\program\c# programs\array\arrayfunctions\obj\Debug\net8.0\arrayfunctions.GeneratedMSBuildEditorConfig.editorconfig
+D:\program\c# programs\array\arrayfunctions\obj\Debug\net8.0\arrayfunctions.AssemblyInfoInputs.cache
+D:\program\c# programs\array\arrayfunctions\obj\Debug\net8.0\arrayfunctions.AssemblyInfo.cs
+D:\program\c# programs\array\arrayfunctions\obj\Debug\net8.0\arrayfunctions.csproj.CoreCompileInputs.cache
+D:\program\c# programs\array\arrayfunctions\obj\Debug\net8.0\arrayfunctions.dll
+D:\program\c# programs\array\arrayfunctions\obj\Debug\net8.0\refint\arrayfunctions.dll
+D:\program\c# programs\array\arrayfunctions\obj\Debug\net8.0\arrayfunctions.pdb
+D:\program\c# programs\array\arrayfunctions\obj\Debug\net8.0\arrayfunctions.genruntimeconfig.cache
+D:\program\c# programs\array\arrayfunctions\obj\Debug\net8.0\ref\arrayfunctions.dll
+D:\program\c#programs\array\arrayfunctions\bin\Debug\net8.0\arrayfunctions.exe
+D:\program\c#programs\array\arrayfunctions\bin\Debug\net8.0\arrayfunctions.deps.json
+D:\program\c#programs\array\arrayfunctions\bin\Debug\net8.0\arrayfunctions.runtimeconfig.json
+D:\program\c#programs\array\arrayfunctions\bin\Debug\net8.0\arrayfunctions.dll
+D:\program\c#programs\array\arrayfunctions\bin\Debug\net8.0\arrayfunctions.pdb
+D:\program\c#programs\array\arrayfunctions\obj\Debug\net8.0\arrayfunctions.GeneratedMSBuildEditorConfig.editorconfig
+D:\program\c#programs\array\arrayfunctions\obj\Debug\net8.0\arrayfunctions.AssemblyInfoInputs.cache
+D:\program\c#programs\array\arrayfunctions\obj\Debug\net8.0\arrayfunctions.AssemblyInfo.cs
+D:\program\c#programs\array\arrayfunctions\obj\Debug\net8.0\arrayfunctions.csproj.CoreCompileInputs.cache
+D:\program\c#programs\array\arrayfunctions\obj\Debug\net8.0\arrayfunctions.dll
+D:\program\c#programs\array\arrayfunctions\obj\Debug\net8.0\refint\arrayfunctions.dll
+D:\program\c#programs\array\arrayfunctions\obj\Debug\net8.0\arrayfunctions.pdb
+D:\program\c#programs\array\arrayfunctions\obj\Debug\net8.0\arrayfunctions.genruntimeconfig.cache
+D:\program\c#programs\array\arrayfunctions\obj\Debug\net8.0\ref\arrayfunctions.dll

@@ -1,0 +1,14 @@
+D:\program\c#programs\egprogram\obj\Debug\net8.0\egprogram.GeneratedMSBuildEditorConfig.editorconfig
+D:\program\c#programs\egprogram\obj\Debug\net8.0\egprogram.AssemblyInfoInputs.cache
+D:\program\c#programs\egprogram\obj\Debug\net8.0\egprogram.AssemblyInfo.cs
+D:\program\c#programs\egprogram\obj\Debug\net8.0\egprogram.csproj.CoreCompileInputs.cache
+D:\program\c#programs\egprogram\bin\Debug\net8.0\egprogram.exe
+D:\program\c#programs\egprogram\bin\Debug\net8.0\egprogram.deps.json
+D:\program\c#programs\egprogram\bin\Debug\net8.0\egprogram.runtimeconfig.json
+D:\program\c#programs\egprogram\bin\Debug\net8.0\egprogram.dll
+D:\program\c#programs\egprogram\bin\Debug\net8.0\egprogram.pdb
+D:\program\c#programs\egprogram\obj\Debug\net8.0\egprogram.dll
+D:\program\c#programs\egprogram\obj\Debug\net8.0\refint\egprogram.dll
+D:\program\c#programs\egprogram\obj\Debug\net8.0\egprogram.pdb
+D:\program\c#programs\egprogram\obj\Debug\net8.0\egprogram.genruntimeconfig.cache
+D:\program\c#programs\egprogram\obj\Debug\net8.0\ref\egprogram.dll

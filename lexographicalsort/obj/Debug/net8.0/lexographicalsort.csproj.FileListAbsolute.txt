@@ -1,0 +1,14 @@
+D:\program\c#programs\lexographicalsort\bin\Debug\net8.0\lexographicalsort.exe
+D:\program\c#programs\lexographicalsort\bin\Debug\net8.0\lexographicalsort.deps.json
+D:\program\c#programs\lexographicalsort\bin\Debug\net8.0\lexographicalsort.runtimeconfig.json
+D:\program\c#programs\lexographicalsort\bin\Debug\net8.0\lexographicalsort.dll
+D:\program\c#programs\lexographicalsort\bin\Debug\net8.0\lexographicalsort.pdb
+D:\program\c#programs\lexographicalsort\obj\Debug\net8.0\lexographicalsort.GeneratedMSBuildEditorConfig.editorconfig
+D:\program\c#programs\lexographicalsort\obj\Debug\net8.0\lexographicalsort.AssemblyInfoInputs.cache
+D:\program\c#programs\lexographicalsort\obj\Debug\net8.0\lexographicalsort.AssemblyInfo.cs
+D:\program\c#programs\lexographicalsort\obj\Debug\net8.0\lexographicalsort.csproj.CoreCompileInputs.cache
+D:\program\c#programs\lexographicalsort\obj\Debug\net8.0\lexographicalsort.dll
+D:\program\c#programs\lexographicalsort\obj\Debug\net8.0\refint\lexographicalsort.dll
+D:\program\c#programs\lexographicalsort\obj\Debug\net8.0\lexographicalsort.pdb
+D:\program\c#programs\lexographicalsort\obj\Debug\net8.0\lexographicalsort.genruntimeconfig.cache
+D:\program\c#programs\lexographicalsort\obj\Debug\net8.0\ref\lexographicalsort.dll

@@ -1,0 +1,14 @@
+D:\c# programs\sgpa\bin\Debug\net8.0\sgpa.exe
+D:\c# programs\sgpa\bin\Debug\net8.0\sgpa.deps.json
+D:\c# programs\sgpa\bin\Debug\net8.0\sgpa.runtimeconfig.json
+D:\c# programs\sgpa\bin\Debug\net8.0\sgpa.dll
+D:\c# programs\sgpa\bin\Debug\net8.0\sgpa.pdb
+D:\c# programs\sgpa\obj\Debug\net8.0\sgpa.GeneratedMSBuildEditorConfig.editorconfig
+D:\c# programs\sgpa\obj\Debug\net8.0\sgpa.AssemblyInfoInputs.cache
+D:\c# programs\sgpa\obj\Debug\net8.0\sgpa.AssemblyInfo.cs
+D:\c# programs\sgpa\obj\Debug\net8.0\sgpa.csproj.CoreCompileInputs.cache
+D:\c# programs\sgpa\obj\Debug\net8.0\sgpa.dll
+D:\c# programs\sgpa\obj\Debug\net8.0\refint\sgpa.dll
+D:\c# programs\sgpa\obj\Debug\net8.0\sgpa.pdb
+D:\c# programs\sgpa\obj\Debug\net8.0\sgpa.genruntimeconfig.cache
+D:\c# programs\sgpa\obj\Debug\net8.0\ref\sgpa.dll

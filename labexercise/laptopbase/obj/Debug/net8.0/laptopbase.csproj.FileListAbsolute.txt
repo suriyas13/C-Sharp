@@ -1,0 +1,14 @@
+D:\c# programs\labexercise\laptopbase\bin\Debug\net8.0\laptopbase.exe
+D:\c# programs\labexercise\laptopbase\bin\Debug\net8.0\laptopbase.deps.json
+D:\c# programs\labexercise\laptopbase\bin\Debug\net8.0\laptopbase.runtimeconfig.json
+D:\c# programs\labexercise\laptopbase\bin\Debug\net8.0\laptopbase.dll
+D:\c# programs\labexercise\laptopbase\bin\Debug\net8.0\laptopbase.pdb
+D:\c# programs\labexercise\laptopbase\obj\Debug\net8.0\laptopbase.GeneratedMSBuildEditorConfig.editorconfig
+D:\c# programs\labexercise\laptopbase\obj\Debug\net8.0\laptopbase.AssemblyInfoInputs.cache
+D:\c# programs\labexercise\laptopbase\obj\Debug\net8.0\laptopbase.AssemblyInfo.cs
+D:\c# programs\labexercise\laptopbase\obj\Debug\net8.0\laptopbase.csproj.CoreCompileInputs.cache
+D:\c# programs\labexercise\laptopbase\obj\Debug\net8.0\laptopbase.dll
+D:\c# programs\labexercise\laptopbase\obj\Debug\net8.0\refint\laptopbase.dll
+D:\c# programs\labexercise\laptopbase\obj\Debug\net8.0\laptopbase.pdb
+D:\c# programs\labexercise\laptopbase\obj\Debug\net8.0\laptopbase.genruntimeconfig.cache
+D:\c# programs\labexercise\laptopbase\obj\Debug\net8.0\ref\laptopbase.dll
